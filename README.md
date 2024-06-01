@@ -1,2 +1,2 @@
-# Machine-Learing-Algorithms (Supervised)
+# Supervised Learning
 Some supervised learning methods for ML
