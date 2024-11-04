@@ -1,2 +1,1 @@
-# Supervised Learning
-Some supervised learning methods for ML
+Some of the supervised and unsupervised learning methods in ML implemented from scratch without importing any ML libraries in Python
